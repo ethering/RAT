@@ -11,25 +11,22 @@ easy to use, and only requires a minimum of input from the user. All the
 parameters have default values, all of which may be changed by the user.
 
 
-### Download and set-up instructions ###
+### Download and set-up instructions
+
+You can clone this repository and build the source code yourself (no external libraries neede), or you can use the RAT.jar file found in the 'dist' directory. 
 
 
+RAT comes packaged as a .jar file, and is tested on Java 1.6 and Java 1.7.
 
-Click on the link above to download the latest version of RAT
-
-
-RAT comes packaged as a .jar file, so users will need Java 1.2 or above,
-or:  [click here][3]  to download the latest version
-of the Java Runtime Environment.
-
-
-Download Rat.jar to a suitable location and double-click the jar file to
+Move Rat.jar to a suitable location and double-click the jar file to
 start. If you are presented with an 'Open with...' box, find the location of
 javaw.exe (often found in the system32 folder on Windows machines) and use
 that.
+Alternatively, you can start RAT from the command line using:
+java -jar RAT.jar
 
 
-**BRIEF USERS GUIDE**
+##USER GUIDE
 
 You will be presented with the main RAT Graphic User Interface (GUI) as
 follows:
