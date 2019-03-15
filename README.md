@@ -13,7 +13,7 @@ parameters have default values, all of which may be changed by the user.
 
 ### Download and set-up instructions
 
-You can clone this repository and build the source code yourself (no external libraries neede), or you can use the RAT.jar file found in the 'dist' directory. 
+You can clone this repository and build the source code yourself (no external libraries needed), or you can use the RAT.jar file found in the 'dist' directory. 
 
 
 RAT comes packaged as a .jar file, and is tested on Java 1.6 and Java 1.7.
